@@ -1,0 +1,10 @@
+C:\Users\Dell\Desktop\Tusk\etec\DS\mvc_SávioJoel\obj\Debug\net9.0\mvc_Sávio&Joel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\Tusk\etec\DS\mvc_SávioJoel\obj\Debug\net9.0\mvc_Sávio&Joel.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Tusk\etec\DS\mvc_SávioJoel\obj\Debug\net9.0\mvc_Sávio&Joel.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Tusk\etec\DS\mvc_SávioJoel\obj\Debug\net9.0\mvc_Sávio&Joel.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Tusk\etec\DS\mvc_SávioJoel\obj\Debug\net9.0\mvc_Sávio&Joel.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dell\Desktop\Tusk\etec\DS\mvc_SávioJoel\obj\Debug\net9.0\mvc_Sávio&Joel.RazorAssemblyInfo.cache
+C:\Users\Dell\Desktop\Tusk\etec\DS\mvc_SávioJoel\obj\Debug\net9.0\mvc_Sávio&Joel.RazorAssemblyInfo.cs
+C:\Users\Dell\Desktop\Tusk\etec\DS\mvc_SávioJoel\obj\Debug\net9.0\mvc_Sávio&Joel.dll
+C:\Users\Dell\Desktop\Tusk\etec\DS\mvc_SávioJoel\obj\Debug\net9.0\refint\mvc_Sávio&Joel.dll
+C:\Users\Dell\Desktop\Tusk\etec\DS\mvc_SávioJoel\obj\Debug\net9.0\mvc_Sávio&Joel.pdb
