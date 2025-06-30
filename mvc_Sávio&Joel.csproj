@@ -7,4 +7,8 @@
     <RootNamespace>mvc_Sávio_Joel</RootNamespace>
   </PropertyGroup>
 
+  <PropertyGroup>
+    <AssemblyName>mvc_SavioJoel</AssemblyName>
+  </PropertyGroup>
+
 </Project>
